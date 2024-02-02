@@ -1,0 +1,19 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="quote_array">
+        <item>"The best way to predict your future is to create it." - Abraham Lincoln</item>
+        <item>"The only way to do great work is to love what you do." - Steve Jobs</item>
+        <item>"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill</item>
+        <!-- add more quotes as needed -->
+    </string-array>
+</resources>
